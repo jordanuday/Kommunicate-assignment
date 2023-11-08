@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Kommunicate-assignment/static/css/main.c79492be.css",
+    "main.js": "/Kommunicate-assignment/static/js/main.c32f7c3d.js",
+    "index.html": "/Kommunicate-assignment/index.html",
+    "main.c79492be.css.map": "/Kommunicate-assignment/static/css/main.c79492be.css.map",
+    "main.c32f7c3d.js.map": "/Kommunicate-assignment/static/js/main.c32f7c3d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c79492be.css",
+    "static/js/main.c32f7c3d.js"
+  ]
+}
